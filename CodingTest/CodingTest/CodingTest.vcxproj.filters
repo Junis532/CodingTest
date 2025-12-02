@@ -18,5 +18,8 @@
     <ClCompile Include="12-01 %28문자열 돌리기%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="12-02 %28[PCCE 기출문제] 3번 수 나누기%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

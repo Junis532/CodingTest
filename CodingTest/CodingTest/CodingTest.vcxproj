@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="12-01 %28문자열 돌리기%29.cpp" />
+    <ClCompile Include="12-02 %28[PCCE 기출문제] 3번 수 나누기%29.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
